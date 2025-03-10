@@ -3,7 +3,7 @@ title: Welcome to my homepage
 ---
 
 # About Me
-Student at MU. Taking lots of great CIS and BUAN courses. Below are some of my projects.
+Student. Taking lots of great CIS and BUAN courses. Below are some of my projects.
 
 ## Projects
 
